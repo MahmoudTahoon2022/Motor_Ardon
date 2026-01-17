@@ -1,8 +1,8 @@
 {
   "devices": {
     "Motor_Ardon": {
-      "version": "1.5",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/Motor_Ardon/main/1.5.bin",
+      "version": "1.6",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/Motor_Ardon/main/1.6.bin",
       "force": false
     }
   }
